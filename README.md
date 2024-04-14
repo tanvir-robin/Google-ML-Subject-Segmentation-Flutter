@@ -6,12 +6,10 @@
 
 
 
+#### Subject Segmentation is Kit for Android provided by Google Machine Learning.There is not direct support to flutter of that kit. Here in this project, I have used flutter method channel to implement this. 
 
-
-#### Subject Segmentation is a Kit for Android provided by Google Machine Learning. There is no direct support for the Flutter of that kit. Here in this project, I have used the Flutter method channel to implement this. 
-
-- Pick any image you want.
-- Press on the "Process Image" button.
+- Pick any Image you want.
+- Press on "Process Image" button.
 - ✨Magic ✨
 
 ## Features
@@ -47,7 +45,7 @@ flutter pub get all
 ```
 
 > The project must be run on a real device to work on. This plugin doesn't support running on emulators.
-> Connect your real device via a USB cable and choose it on the device panel
+> Connect your real device via USB cable and choose it on device panel
 
 Run the project
 
@@ -60,6 +58,10 @@ flutter run
 
 Want to contribute? Great!
 Feel free to fork and create pull request. 
+
+## Glimps
+
+![](https://previews.dropbox.com/p/thumb/ACMs1Qtf4TswqzDf7iZSy92qS5GjCquFSBM6LKW6odj7iQ1R4cMyrDrMqOQNNfy0Llt-hIJ2HL0TUTfR1u_wRtDjTcCMk0lJH2N-1jcxjLU-Q7Z_Q3ENX2fJEwtm-H8Tuhrl3LNQHP88071jtUJIBysszlSUIu-NK2qADoqW7hwL-qoeHylonksOYoF15ppik5sfvpyS5aF17sZmZBKZJHdX01_9MBSxk2RHCkrcsWzW2aquESijaT8jPssyjzd4XvM_OsVRzWENNTcllE9ANDXLwVKCohLoPqdOh7Z-JgHkPr3_omJlTZjOA2dCimm_nliMouIRoQbopQ8YQAhYWIMM/p.gif)
 
 ## Read More
 - [Subject Segmentation - Google ML Kit](https://developers.google.com/ml-kit/vision/subject-segmentation/android)
