@@ -61,8 +61,8 @@ Feel free to fork and create pull request.
 
 ## Glimps
 
-![](https://previews.dropbox.com/p/thumb/ACMs1Qtf4TswqzDf7iZSy92qS5GjCquFSBM6LKW6odj7iQ1R4cMyrDrMqOQNNfy0Llt-hIJ2HL0TUTfR1u_wRtDjTcCMk0lJH2N-1jcxjLU-Q7Z_Q3ENX2fJEwtm-H8Tuhrl3LNQHP88071jtUJIBysszlSUIu-NK2qADoqW7hwL-qoeHylonksOYoF15ppik5sfvpyS5aF17sZmZBKZJHdX01_9MBSxk2RHCkrcsWzW2aquESijaT8jPssyjzd4XvM_OsVRzWENNTcllE9ANDXLwVKCohLoPqdOh7Z-JgHkPr3_omJlTZjOA2dCimm_nliMouIRoQbopQ8YQAhYWIMM/p.gif)
-![QAhYWIMM](https://github.com/tanvir-robin/Google-ML-Subject-Segmentation-Flutter/assets/95021955/34a527af-fd8e-4f6c-b865-827ba9ec1826)
+
+![Glimps](https://github.com/tanvir-robin/Google-ML-Subject-Segmentation-Flutter/assets/95021955/34a527af-fd8e-4f6c-b865-827ba9ec1826)
 
 
 ## Read More
