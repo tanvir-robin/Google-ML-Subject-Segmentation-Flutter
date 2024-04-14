@@ -29,7 +29,7 @@
 
 ## Installation
 
-This project requires [Flutter SDK](https://flutter.dev/) run.
+This project requires [Flutter SDK](https://flutter.dev/) to run.
 
 Clone the repo to your local machine
 
