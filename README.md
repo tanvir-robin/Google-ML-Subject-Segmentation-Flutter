@@ -6,7 +6,7 @@
 
 
 
-#### Subject Segmentation is ML model for Android provided by Google Machine Learning.There is not direct support to flutter of that kit. Here in this project, I have used flutter method channel to implement this. 
+#### Subject Segmentation is a ML model for Android provided by Google Machine Learning.There is not direct support to flutter of that kit. Here in this project, I have used flutter method channel to implement this. 
 
 - Pick any Image you want.
 - Press on "Process Image" button.
